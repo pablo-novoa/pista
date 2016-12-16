@@ -19,7 +19,7 @@
     <div class="mdl-layout__header-row">
       <!-- Title -->
       <span class="mdl-layout-title">
-      	<a href="/" style="color:#fff; text-decoration:none;">Amigo invisible</a>
+      	<a href="/pista" style="color:#fff; text-decoration:none;">Amigo invisible</a>
       </span>
     </div>
   </header>
